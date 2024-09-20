@@ -6,3 +6,4 @@
 |  Las distancias, los apoyos y las cargas varían aleatoriamente en cualquiera de los puntos de la cercha. | Distances, supports and loads vary randomly at any point along the truss. |
 <p align="center">
  <image src="https://i.ibb.co/Ssb0PNT/Cercha-Tipo-1.png" width=600 alt="Cercha Tipo 1 para cálculo de esfuerzos en las barras." caption="Trusses" > 
+https://github.com/MilagrosHuerta/Trusses_T1/releases/download/V1.0/Problemas.FTP.-.CERCHAS.T1.xlsm
