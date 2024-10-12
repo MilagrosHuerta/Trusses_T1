@@ -7,7 +7,7 @@
 | Enlace para descargarte el archivo. | Link to download the file. |
 
 <p align="center">
- https://github.com/MilagrosHuerta/Trusses_T1/releases/download/V1.2/Problemas.FTP.-.CERCHAS.T1.xlsm
+ https://github.com/MilagrosHuerta/Trusses_T1/releases/download/V1.3/Problemas.FTP.-.CERCHAS.T1.xlsm
  </p>
 <p align="center">
  <image src="https://i.ibb.co/Ssb0PNT/Cercha-Tipo-1.png" width=600 alt="Cercha Tipo 1 para cálculo de esfuerzos en las barras." caption="Trusses" > 
