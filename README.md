@@ -11,3 +11,5 @@
  
  ..................................... [![Imagen miniatura del vídeo](https://i.ytimg.com/vi/DohRhugN6H8/hqdefault.jpg)](https://www.youtube.com/watch?v=DohRhugN6H8)
 
+FastTest PlugIn Dowload: https://moodle.org/plugins/view.php?id=2831
+https://moodle.org/plugins/download.php/30812/FastTest_PlugIn_moodle43_2024010582.zip
