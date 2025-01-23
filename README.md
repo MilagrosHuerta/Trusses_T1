@@ -7,7 +7,9 @@
 | Enlace para descargarte el archivo. | Link to download the file. |
 
 <p align="center">
- https://github.com/MilagrosHuerta/Trusses_T1/releases/download/V1.1/Problemas.FTP.-.CERCHAS.T1.xlsm
- </p>
-<p align="center">
- <image src="https://i.ibb.co/Ssb0PNT/Cercha-Tipo-1.png" width=600 alt="Cercha Tipo 1 para cálculo de esfuerzos en las barras." caption="Trusses" > 
+ https://github.com/MilagrosHuerta/Trusses_T1/releases/download/V1.5/Problemas.FTP.-.CERCHAS.T1.xlsm
+ 
+ ..................................... [![Imagen miniatura del vídeo](https://i.ytimg.com/vi/DohRhugN6H8/hqdefault.jpg)](https://www.youtube.com/watch?v=DohRhugN6H8)
+
+FastTest PlugIn Dowload: https://moodle.org/plugins/view.php?id=2831
+https://moodle.org/plugins/download.php/30812/FastTest_PlugIn_moodle43_2024010582.zip
